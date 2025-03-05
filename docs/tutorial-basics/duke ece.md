@@ -12,7 +12,7 @@ ECE总共有两个大类，一个是MS，一个是MENG👋。区别就是前者�
 
 ## Pros：
 1. 项目的课程质量比较好。有秋季三件套（550，551，590）和春季三件套（650，651，568），基本都是SDE相关的课。如果是转码且基础相对比较薄弱的同学可以补一下基础。春季三件套的wld相对比较大，比如ECE 651 SOFTWARE ENGINEERING，会花很多时间，但是同样能帮忙打好基础。
-2. coop。meng可以coop两次，有coop就是有一张复活卡，秋季招coop的公司有Tesla、snowflake、tiktok等🍾。从邮件上来看，24fall之后的meng ece都是可以coop的，秋季能有coop的学校相对较少，因此竞争少一点，上岸概率更大。
+2. coop。meng可以coop 一次，有coop就是有一张复活卡，秋季招coop的公司有Tesla、snowflake、tiktok等🍾。从邮件上来看，24fall之后的meng ece都是可以coop的，秋季能有coop的学校相对较少，因此竞争少一点，上岸概率更大。
 3. 可以转码。申请Duke ece时候会让你填写是想申请meng还是ms, 转码/cs科班同学可以选Software Development👊和Data Analytics & Machine Learning track。文书也比较好写一点（前者写sde文书，后者写做科研的文书）。当然track进入学校后都可以互相转的
 4. 人相对比较少，过简历关相对容易。有些公司在最后发offer时候会参考一下已经招了这个学校的ng的人数，必然不可能说全都招一个学校的。因此人数少的学校在过简历时候会有优势。
 
